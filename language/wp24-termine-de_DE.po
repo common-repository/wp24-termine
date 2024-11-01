@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-17 16:21+0200\n"
+"PO-Revision-Date: 2020-10-17 16:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../lib\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: pages\n"
+"X-Poedit-SearchPath-1: ajax/objects\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: ajax/form/plugin-formular.php:151
+msgid "All appointments"
+msgstr "Alle Termine"
+
+#: ajax/objects/plugin-formular.php:847
+msgid "An error has occurred!"
+msgstr "Ein Fehler ist aufgetreten!"
+
+#: ajax/objects/plugin-formular.php:851
+msgid "Please enter a name for the settings!"
+msgstr "Bitte Name für die Settings eingeben!"
+
+#: ajax/objects/plugin-formular.php:855
+msgid "Settings saved successfully!"
+msgstr "Settings erfolgreich gespeichert!"
+
+#: ajax/objects/plugin-formular.php:859
+msgid "The name already exists!"
+msgstr "Der Name ist schon vorhanden!"
+
+#: ajax/objects/plugin-formular.php:863
+msgid "These settings cannot be deleted!"
+msgstr "Diese Settings können nicht gelöscht werden!"
+
+#: ajax/objects/plugin-formular.php:867
+msgid "Active settings cannot be deleted!"
+msgstr "Aktive Settings können nicht gelöscht werden!"
+
+#: ajax/objects/plugin-formular.php:871
+msgid "Settings deleted successfully!"
+msgstr "Settings erfolgreich gelöscht!"
+
+#: ajax/objects/plugin-formular.php:875
+msgid "Settings could not be saved!"
+msgstr "Settings konnten nicht gespeichert werden!"
+
+#: ajax/objects/plugin-formular.php:879
+msgid "This language cannot be deleted!"
+msgstr "Diese Sprache kann nicht gelöscht werden!"
+
+#: ajax/objects/plugin-formular.php:883
+msgid "Please indicate designation!"
+msgstr "Bitte Bezeichnung angeben!"
+
+#: ajax/objects/plugin-formular.php:887
+msgid "Category saved successfully!"
+msgstr "Kategorie erfolgreich gespeichert!"
+
+#: ajax/objects/plugin-formular.php:891
+msgid "Category could not be saved!"
+msgstr "Kategorie konnte nicht gespeichert werden!"
+
+#: ajax/objects/plugin-formular.php:895
+msgid "There are dates for this category!"
+msgstr "Es sind Termine für diese Kategorie vorhanden!"
+
+#: ajax/objects/plugin-formular.php:899
+msgid "Category deleted successfully!"
+msgstr "Kategorie erfolgreich gelöscht!"
+
+#: ajax/objects/plugin-formular.php:903
+msgid "Changes succesfully saved!"
+msgstr "Änderungen erfolgreich gespeichert!"
+
+#: ajax/objects/plugin-formular.php:907 ajax/objects/plugin-formular.php:1033
+#: pages/termine-events.php:201
+msgid "Select day of the week"
+msgstr "Wochentag auswählen"
+
+#: ajax/objects/plugin-formular.php:911
+msgid "The Time from field is empty!"
+msgstr "Das Feld Uhrzeit von ist leer!"
+
+#: ajax/objects/plugin-formular.php:915
+msgid "The Time to field is empty!"
+msgstr "Das Feld Uhrzeit bis ist leer!"
+
+#: ajax/objects/plugin-formular.php:919
+msgid "The entry field is empty!"
+msgstr "Das Feld Eintrag ist leer!"
+
+#: ajax/objects/plugin-formular.php:923 ajax/objects/plugin-formular.php:1037
+#: pages/termine-events.php:233
+msgid "choose category"
+msgstr "Kategorie auswählen"
+
+#: ajax/objects/plugin-formular.php:927
+msgid "no entry"
+msgstr "kein Eintrag"
+
+#: ajax/objects/plugin-formular.php:931
+msgid "Entry created successfully!"
+msgstr "Eintrag erfolgreich erstellt!"
+
+#: ajax/objects/plugin-formular.php:935
+msgid "Data could not be saved!"
+msgstr "Daten konnten nicht gespeichert werden!"
+
+#: ajax/objects/plugin-formular.php:939
+msgid "Entry deleted!"
+msgstr "Eintrag gelöscht!"
+
+#: ajax/objects/plugin-formular.php:943
+msgid "Please indicate the schedule description!"
+msgstr "Bitte Terminplan Bezeichnung angeben!"
+
+#: ajax/objects/plugin-formular.php:947
+msgid "Please choose language!"
+msgstr "Bitte Sprache auswählen!"
+
+#: ajax/objects/plugin-formular.php:951
+msgid "Please select header & layout!"
+msgstr "Bitte Header & Layout auswählen!"
+
+#: ajax/objects/plugin-formular.php:955
+msgid "Schedule successfully created!"
+msgstr "Terminplan erfolgreich erstellt!"
+
+#: ajax/objects/plugin-formular.php:959
+msgid "Schedule could not be created!"
+msgstr "Terminplan konnte nicht erstellt werden!"
+
+#: ajax/objects/plugin-formular.php:963
+msgid "empty input!"
+msgstr "leere Eingabe!"
+
+#: ajax/objects/plugin-formular.php:967
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: ajax/objects/plugin-formular.php:971
+msgid "Schedule and events successfully deleted!"
+msgstr "Terminplan und Events erfolgreich gelöscht!"
+
+#: ajax/objects/plugin-formular.php:975
+msgid "Please choose dates category page!"
+msgstr "Bitte Termine Kategorie Seite wählen!"
+
+#: ajax/objects/plugin-formular.php:979
+msgid "Page deleted successfully!"
+msgstr "Seite erfolgreich gelöscht!"
+
+#: ajax/objects/plugin-formular.php:983
+msgid "No settings could be found!"
+msgstr "Es konnten keine Settings gefunden werden!"
+
+#: ajax/objects/plugin-formular.php:987
+msgid "Demo plan loaded! Page is reloading."
+msgstr "Demo Plan geladen! Seite wird neu geladen."
+
+#: ajax/objects/plugin-formular.php:993
+msgid "Edit appointment"
+msgstr "Termin bearbeiten"
+
+#: ajax/objects/plugin-formular.php:997 pages/termine-events.php:129
+#: pages/termine-events.php:193 pages/termine-startseite.php:42
+#: pages/termine-startseite.php:253 pages/termine-startseite.php:395
+#: pages/termine-startseite.php:540
+msgid "back"
+msgstr "zurück"
+
+#: ajax/objects/plugin-formular.php:1001 pages/termine-events.php:199
+msgid "weekday"
+msgstr "Wochentag"
+
+#: ajax/objects/plugin-formular.php:1005 pages/termine-events.php:216
+msgid "Time from"
+msgstr "Uhrzeit von"
+
+#: ajax/objects/plugin-formular.php:1009 pages/termine-events.php:220
+msgid "Time to"
+msgstr "Uhrzeit bis"
+
+#: ajax/objects/plugin-formular.php:1013 pages/termine-events.php:231
+#: pages/termine-startseite.php:245 pages/termine-startseite.php:637
+msgid "category"
+msgstr "Kategorie"
+
+#: ajax/objects/plugin-formular.php:1017 pages/termine-events.php:227
+msgid "entry"
+msgstr "Eintrag"
+
+#: ajax/objects/plugin-formular.php:1021
+msgid "save Changes"
+msgstr "Änderungen speichern"
+
+#: ajax/objects/plugin-formular.php:1025 pages/termine-events.php:176
+#: pages/termine-events.php:262 pages/termine-startseite.php:86
+#: pages/termine-startseite.php:288 pages/termine-startseite.php:447
+#: pages/termine-startseite.php:592 pages/termine-startseite.php:625
+msgid "abort"
+msgstr "abbrechen"
+
+#: ajax/objects/plugin-formular.php:1029 pages/termine-events.php:251
+msgid "empty entry"
+msgstr "leerer Eintrag"
+
+#: ajax/objects/plugin-formular.php:1041 pages/termine-startseite.php:186
+#: pages/termine-startseite.php:199 pages/termine-startseite.php:318
+#: pages/termine-startseite.php:334 pages/termine-startseite.php:475
+#: pages/termine-startseite.php:489 pages/termine-startseite.php:760
+#: pages/termine-startseite.php:826
+msgid "to save"
+msgstr "Speichern"
+
+#: ajax/objects/plugin-formular.php:1045 pages/termine-startseite.php:109
+#: pages/termine-startseite.php:156 pages/termine-startseite.php:187
+#: pages/termine-startseite.php:200 pages/termine-startseite.php:226
+#: pages/termine-startseite.php:319 pages/termine-startseite.php:335
+#: pages/termine-startseite.php:377 pages/termine-startseite.php:476
+#: pages/termine-startseite.php:490 pages/termine-startseite.php:521
+#: pages/termine-startseite.php:645 pages/termine-startseite.php:665
+msgid "Clear"
+msgstr "Löschen"
+
+#: ajax/objects/plugin-formular.php:1049
+msgid "No"
+msgstr "Nr"
+
+#: ajax/objects/plugin-formular.php:1053
+msgid "Demo"
+msgstr "Demo"
+
+#: ajax/objects/plugin-formular.php:1059
+msgid "Are you sure you want to delete a category?"
+msgstr "Kategorie wirklich löschen?"
+
+#: ajax/objects/plugin-formular.php:1063
+msgid "All settings in this category will be deleted!"
+msgstr "Alle Einstellungen dieser Kategorie werden gelöscht!"
+
+#: ajax/objects/plugin-formular.php:1067
+msgid "Delete category!"
+msgstr "Kategorie löschen!"
+
+#: ajax/objects/plugin-formular.php:1071
+msgid "Are you sure you want to delete the appointment?"
+msgstr "Termin wirklich löschen?"
+
+#: ajax/objects/plugin-formular.php:1075
+msgid "All data will be deleted from the database!"
+msgstr "Alle Daten werden aus der Datenbank gelöscht!"
+
+#: ajax/objects/plugin-formular.php:1079
+msgid "Delete appointment!"
+msgstr "Termin löschen!"
+
+#: ajax/objects/plugin-formular.php:1083
+msgid "Really delete settings?"
+msgstr "Settings wirklich löschen?"
+
+#: ajax/objects/plugin-formular.php:1087
+msgid "Delete settings!"
+msgstr "Settings löschen!"
+
+#: ajax/objects/plugin-formular.php:1091
+msgid "Really delete language?"
+msgstr "Sprache wirklich löschen?"
+
+#: ajax/objects/plugin-formular.php:1095
+msgid "Delete language!"
+msgstr "Sprache löschen!"
+
+#: ajax/objects/plugin-formular.php:1099
+msgid "Really delete this page?"
+msgstr "Diese Seite wirklich löschen?"
+
+#: ajax/objects/plugin-formular.php:1103
+msgid "The page will be deleted!"
+msgstr "Die Seite wird gelöscht!"
+
+#: ajax/objects/plugin-formular.php:1107
+msgid "Delete page!"
+msgstr "Seite löschen!"
+
+#: ajax/objects/plugin-formular.php:1111
+msgid "Are you sure you want to delete the schedule?"
+msgstr "Terminplan wirklich löschen?"
+
+#: ajax/objects/plugin-formular.php:1115
+msgid "All appointments from this group will be deleted!"
+msgstr "Alle Termine aus dieser Gruppe werden gelöscht!"
+
+#: ajax/objects/plugin-formular.php:1119
+msgid "Delete schedule!"
+msgstr "Terminplan löschen!"
+
+#: pages/termine-events.php:46
+msgid "Appointment"
+msgstr "Termine"
+
+#: pages/termine-events.php:46
+msgid "Overview"
+msgstr "Überblick"
+
+#: pages/termine-events.php:48
+msgid "Appointment groups"
+msgstr "Erstellte Termin Gruppen"
+
+#: pages/termine-events.php:54
+msgid "Choose an appointment"
+msgstr "Termin wählen"
+
+#: pages/termine-events.php:56 pages/termine-startseite.php:55
+#: pages/termine-startseite.php:64 pages/termine-startseite.php:127
+#: pages/termine-startseite.php:140 pages/termine-startseite.php:615
+msgid "Select entry"
+msgstr "Eintrag wählen"
+
+#: pages/termine-events.php:66
+msgid "Edit the schedule"
+msgstr "Terminplan bearbeiten"
+
+#: pages/termine-events.php:73
+msgid "Create new entry"
+msgstr "neuen Eintrag erstellen"
+
+#: pages/termine-events.php:74
+msgid "Settings dropdown button"
+msgstr "Dropdown Button Settings"
+
+#: pages/termine-events.php:98
+msgid "from"
+msgstr "von"
+
+#: pages/termine-events.php:98
+msgid "to"
+msgstr "bis"
+
+#: pages/termine-events.php:117
+msgid "Dropdown button"
+msgstr "Dropdown Button"
+
+#: pages/termine-events.php:117 pages/termine-events.php:119
+#: pages/termine-events.php:184 pages/termine-startseite.php:106
+#: pages/termine-startseite.php:387 pages/termine-startseite.php:532
+msgid "Settings"
+msgstr "Settings"
+
+#: pages/termine-events.php:135 pages/termine-startseite.php:785
+msgid "Name dropdown button"
+msgstr "Dropdown Button Bezeichnung"
+
+#: pages/termine-events.php:143 pages/termine-startseite.php:793
+msgid "Background dropdown"
+msgstr "Background Dropdown"
+
+#: pages/termine-events.php:147 pages/termine-startseite.php:797
+msgid "Dropdown Text Color"
+msgstr "Dropdown Text Color"
+
+#: pages/termine-events.php:153 pages/termine-startseite.php:803
+msgid "Background hover dropdown"
+msgstr "Background Hover Dropdown"
+
+#: pages/termine-events.php:157 pages/termine-startseite.php:807
+msgid "Dropdown font size"
+msgstr "Dropdown Font-Size"
+
+#: pages/termine-events.php:164 pages/termine-startseite.php:814
+msgid "Show DropDown"
+msgstr "DropDown anzeigen"
+
+#: pages/termine-events.php:175
+msgid "Save settings"
+msgstr "Settings speichern"
+
+#: pages/termine-events.php:184 pages/termine-startseite.php:245
+#: pages/termine-startseite.php:387 pages/termine-startseite.php:532
+msgid "new"
+msgstr "neue"
+
+#: pages/termine-events.php:202 pages/termine-startseite.php:468
+#: pages/termine-startseite.php:482 pages/termine-startseite.php:550
+#: pages/termine-startseite.php:551
+msgid "Monday"
+msgstr "Montag"
+
+#: pages/termine-events.php:203 pages/termine-startseite.php:469
+#: pages/termine-startseite.php:483 pages/termine-startseite.php:556
+#: pages/termine-startseite.php:557
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: pages/termine-events.php:204 pages/termine-startseite.php:470
+#: pages/termine-startseite.php:484 pages/termine-startseite.php:560
+#: pages/termine-startseite.php:561
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: pages/termine-events.php:205 pages/termine-startseite.php:471
+#: pages/termine-startseite.php:485 pages/termine-startseite.php:567
+#: pages/termine-startseite.php:568
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: pages/termine-events.php:206 pages/termine-startseite.php:472
+#: pages/termine-startseite.php:486 pages/termine-startseite.php:572
+#: pages/termine-startseite.php:573
+msgid "Friday"
+msgstr "Freitag"
+
+#: pages/termine-events.php:207 pages/termine-startseite.php:473
+#: pages/termine-startseite.php:487 pages/termine-startseite.php:579
+#: pages/termine-startseite.php:580
+msgid "Saturday"
+msgstr "Samstag"
+
+#: pages/termine-events.php:208 pages/termine-startseite.php:474
+#: pages/termine-startseite.php:488 pages/termine-startseite.php:583
+#: pages/termine-startseite.php:584
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: pages/termine-events.php:244 pages/termine-startseite.php:74
+#: pages/termine-startseite.php:104 pages/termine-startseite.php:120
+#: pages/termine-startseite.php:180 pages/termine-startseite.php:193
+#: pages/termine-startseite.php:214
+msgid "active"
+msgstr "aktiv"
+
+#: pages/termine-events.php:261
+msgid "Create an entry"
+msgstr "Eintrag erstellen"
+
+#: pages/termine-startseite.php:21
+msgid "appointment"
+msgstr "Termine"
+
+#: pages/termine-startseite.php:23
+msgid "Create & Settings"
+msgstr "Erstellen & Settings"
+
+#: pages/termine-startseite.php:27
+msgid "Appointment schedule"
+msgstr "Termin-Plan"
+
+#: pages/termine-startseite.php:28
+msgid "Categories"
+msgstr "Kategorien"
+
+#: pages/termine-startseite.php:29
+msgid "Category pages"
+msgstr "Kategorie Seiten"
+
+#: pages/termine-startseite.php:30
+msgid "Header & layout settings"
+msgstr "Header & Layout Settings"
+
+#: pages/termine-startseite.php:31
+msgid "Appointment schedule days"
+msgstr "Termin-Plan Tage"
+
+#: pages/termine-startseite.php:45
+msgid "Schedule description"
+msgstr "Terminplan Bezeichnung"
+
+#: pages/termine-startseite.php:53 pages/termine-startseite.php:105
+#: pages/termine-startseite.php:546
+msgid "language"
+msgstr "Sprache"
+
+#: pages/termine-startseite.php:62
+msgid "Header & layout"
+msgstr "Header & Layout Settings"
+
+#: pages/termine-startseite.php:85
+msgid "Create a schedule"
+msgstr "Terminplan erstellen"
+
+#: pages/termine-startseite.php:92
+msgid "Create new appointment"
+msgstr "neuen Termin erstellen"
+
+#: pages/termine-startseite.php:93
+msgid "Load demo appointment schedule"
+msgstr "Demo Termin Plan laden"
+
+#: pages/termine-startseite.php:97
+msgid "Created appointment groups"
+msgstr "Erstellte Termin Gruppen"
+
+#: pages/termine-startseite.php:103 pages/termine-startseite.php:181
+#: pages/termine-startseite.php:194 pages/termine-startseite.php:256
+#: pages/termine-startseite.php:257 pages/termine-startseite.php:402
+msgid "designation"
+msgstr "Bezeichnung"
+
+#: pages/termine-startseite.php:107
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: pages/termine-startseite.php:108
+msgid "Edit appointments"
+msgstr "Termine bearbeiten"
+
+#: pages/termine-startseite.php:153
+msgid "Add / edit appointment"
+msgstr "Termin hinzufügen/bearbeiten"
+
+#: pages/termine-startseite.php:168
+msgid "create a new category"
+msgstr "neue Kategorie erstellen"
+
+#: pages/termine-startseite.php:170
+msgid "select all"
+msgstr "alles Auswählen"
+
+#: pages/termine-startseite.php:171
+msgid "delete unused"
+msgstr "unbenutzte löschen"
+
+#: pages/termine-startseite.php:182 pages/termine-startseite.php:195
+#: pages/termine-startseite.php:268
+msgid "Box BG Color"
+msgstr "Box BG Color"
+
+#: pages/termine-startseite.php:183 pages/termine-startseite.php:196
+msgid "Text Color"
+msgstr "Text Color"
+
+#: pages/termine-startseite.php:184 pages/termine-startseite.php:197
+#: pages/termine-startseite.php:279
+msgid "Hover BG Color"
+msgstr "Hover BG Color"
+
+#: pages/termine-startseite.php:185 pages/termine-startseite.php:198
+#: pages/termine-startseite.php:275
+msgid "Hover Text Color"
+msgstr "Hover Text Color"
+
+#: pages/termine-startseite.php:188 pages/termine-startseite.php:201
+msgid "selection"
+msgstr "Auswahl"
+
+#: pages/termine-startseite.php:229 pages/termine-startseite.php:524
+msgid "Save"
+msgstr "Speichern"
+
+#: pages/termine-startseite.php:264
+msgid "Text color"
+msgstr "Text Color"
+
+#: pages/termine-startseite.php:287
+msgid "Create category"
+msgstr "Kategorie erstellen"
+
+#: pages/termine-startseite.php:300
+msgid "create new settings"
+msgstr "neue Settings erstellen"
+
+#: pages/termine-startseite.php:308 pages/termine-startseite.php:324
+#: pages/termine-startseite.php:401 pages/termine-startseite.php:467
+#: pages/termine-startseite.php:481
+msgid "name"
+msgstr "Name"
+
+#: pages/termine-startseite.php:309 pages/termine-startseite.php:325
+msgid "Header BG"
+msgstr "Header BG"
+
+#: pages/termine-startseite.php:310 pages/termine-startseite.php:326
+msgid "Header Color"
+msgstr "Header Color"
+
+#: pages/termine-startseite.php:311 pages/termine-startseite.php:327
+msgid "Empty BG"
+msgstr "Leer BG"
+
+#: pages/termine-startseite.php:312 pages/termine-startseite.php:328
+msgid "Box min. Height (px)"
+msgstr "Box min. Höhe (px)"
+
+#: pages/termine-startseite.php:313 pages/termine-startseite.php:329
+msgid "Font size header (px)"
+msgstr "Schrift-Size Header (px)"
+
+#: pages/termine-startseite.php:314 pages/termine-startseite.php:330
+msgid "Font size appointment (px)"
+msgstr "Schrift-Size Termin (px)"
+
+#: pages/termine-startseite.php:315 pages/termine-startseite.php:331
+msgid "Font size date (px)"
+msgstr "Schrift-Size Datum (px)"
+
+#: pages/termine-startseite.php:316 pages/termine-startseite.php:332
+msgid "Container"
+msgstr "Container"
+
+#: pages/termine-startseite.php:317 pages/termine-startseite.php:333
+msgid "DropDown"
+msgstr "DropDown"
+
+#: pages/termine-startseite.php:373
+msgid "save"
+msgstr "speichern"
+
+#: pages/termine-startseite.php:405
+msgid "Box empty color"
+msgstr "Box BG Color"
+
+#: pages/termine-startseite.php:411
+msgid "BG Color header"
+msgstr "Header BG Color"
+
+#: pages/termine-startseite.php:415
+msgid "Header color"
+msgstr "Header color"
+
+#: pages/termine-startseite.php:422
+msgid "Box min. height"
+msgstr "Box min. Höhe (px)"
+
+#: pages/termine-startseite.php:426
+msgid "Font size header"
+msgstr "Schriftgröße Header"
+
+#: pages/termine-startseite.php:433
+msgid "Font size appointment"
+msgstr "Schriftgröße Termin"
+
+#: pages/termine-startseite.php:437
+msgid "Font size date"
+msgstr "Schriftgröße Datum"
+
+#: pages/termine-startseite.php:446 pages/termine-startseite.php:591
+msgid "Create settings"
+msgstr "Settings erstellen"
+
+#: pages/termine-startseite.php:459
+msgid "add new language"
+msgstr "neue Sprache hinzufügen"
+
+#: pages/termine-startseite.php:604
+msgid "add new page"
+msgstr "neue Seite hinzufügen"
+
+#: pages/termine-startseite.php:608
+msgid "Category page"
+msgstr "Kategorie Seite"
+
+#: pages/termine-startseite.php:613
+msgid "choose categorie"
+msgstr "Kategorie wählen"
+
+#: pages/termine-startseite.php:624
+msgid "Create a page"
+msgstr "Seite erstellen"
+
+#: pages/termine-startseite.php:638
+msgid "Pages title"
+msgstr "Seiten Titel"
+
+#: pages/termine-startseite.php:639
+msgid "Post ID"
+msgstr "Post ID"
+
+#: pages/termine-startseite.php:640
+msgid "Created"
+msgstr "Erstellt"
+
+#: pages/termine-startseite.php:641
+msgid "status"
+msgstr "Status"
+
+#: pages/termine-startseite.php:642
+msgid "Comment status"
+msgstr "Kommentar Status"
+
+#: pages/termine-startseite.php:643
+msgid "View page"
+msgstr "Seite ansehen"
+
+#: pages/termine-startseite.php:644
+msgid "To edit"
+msgstr "Bearbeiten"
+
+#: pages/termine-startseite.php:658
+msgid "look at"
+msgstr "ansehen"
+
+#: pages/termine-startseite.php:661
+msgid "to edit"
+msgstr "bearbeiten"
+
+#: pages/termine-startseite.php:684
+msgid "Container settings"
+msgstr "Container Settings"
+
+#: pages/termine-startseite.php:694 pages/termine-startseite.php:697
+msgid "Container width"
+msgstr "Container-Breite"
+
+#: pages/termine-startseite.php:706
+msgid "Margin top"
+msgstr "Margin-Top"
+
+#: pages/termine-startseite.php:710
+msgid "Margin bottom"
+msgstr "Margin-Bottom"
+
+#: pages/termine-startseite.php:716
+msgid "Margin left"
+msgstr "Margin-Left"
+
+#: pages/termine-startseite.php:720
+msgid "Margin right"
+msgstr "Margin-Right"
+
+#: pages/termine-startseite.php:726
+msgid "Padding top"
+msgstr "Padding-Top"
+
+#: pages/termine-startseite.php:730
+msgid "Padding bottom"
+msgstr "Padding-Bottom"
+
+#: pages/termine-startseite.php:736
+msgid "Padding-Left"
+msgstr "Padding-Left"
+
+#: pages/termine-startseite.php:740
+msgid "Padding-Right"
+msgstr "Padding-Right"
+
+#: pages/termine-startseite.php:748
+msgid "auto resize"
+msgstr "auto resize"
+
+#: pages/termine-startseite.php:759 pages/termine-startseite.php:825
+msgid "close"
+msgstr "schließen"
+
+#: pages/termine-startseite.php:773
+msgid "DropDown Settings"
+msgstr "DropDown Settings"
+
+#: register_apd_plugin.php:50
+msgid "Events"
+msgstr "Termine"
+
+#: register_apd_plugin.php:51
+msgid "AP24 Events"
+msgstr "AP24 Termine"
+
+#: register_apd_plugin.php:62 register_apd_plugin.php:63
+msgid "AP24 plans"
+msgstr "AP24 Events"
+
+#~ msgid "container Widht"
+#~ msgstr "Container Widht"
+
+#~ msgid "APD Termin"
+#~ msgstr "APD appointment"
